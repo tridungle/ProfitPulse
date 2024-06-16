@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39730604874",
+    "project_id": "profitpulse-c8839",
+    "storage_bucket": "profitpulse-c8839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39730604874:android:1e16999d7ea35e2e316fb3",
+        "android_client_info": {
+          "package_name": "com.profitpulse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhzp90ALG8GjXMxoLBlfU6iGDcHV5toF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
